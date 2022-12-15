@@ -438,7 +438,7 @@ Defines assets for describing attributes visually, such as logos and icons. For 
 
 ### Presentation Overlay
 
-Defines the representation of the data object at the application layer, supporting accessibility concerns and providing issuer-defined aesthetic attributes. We propose changing the existing ‘Layout Overlay’ to express representation definitions as key-value pairs that any application layer codebase may interpret.
+Defines the presentation of the data object at the application layer, supporting accessibility concerns and providing issuer-defined aesthetic attributes. We propose changing the existing ‘Layout Overlay’ to express representation definitions as key-value pairs that any application layer codebase may interpret.
 
 ```JSON
 {
